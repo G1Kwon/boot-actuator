@@ -25,6 +25,8 @@ management:
 #      enabled: true
 #    build:
 #      enabled: true
+#  server:
+#    port: 9292
 logging:
   level:
     hello.controller: debug
